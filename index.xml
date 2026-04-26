@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Главная on Проектная деятельность</title>
+    <link>https://ar1yal1.github.io/fungi-site/</link>
+    <description>Recent content in Главная on Проектная деятельность</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ar1yal1.github.io/fungi-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Начало работы над проектом</title>
+      <link>https://ar1yal1.github.io/fungi-site/posts/post-1/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ar1yal1.github.io/fungi-site/posts/post-1/</guid>
+      <description>&lt;p&gt;На первом этапе я вступила в проект &lt;strong&gt;Fungi&lt;/strong&gt; и была распределена в команду дизайна.&lt;br&gt;&#xA;Команда обсудила общую идею проекта, основные цели и задачи на семестр.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>О проекте</title>
+      <link>https://ar1yal1.github.io/fungi-site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ar1yal1.github.io/fungi-site/about/</guid>
+      <description>&lt;h1 id=&#34;о-проекте&#34;&gt;О проекте&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fungi&lt;/strong&gt; — это проект, связанный с созданием цифрового сервиса для распознавания грибов.&lt;/p&gt;&#xA;&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;&#xA;&lt;p&gt;Создать удобный сайт и мобильное приложение, которые помогают пользователю определить вид гриба и получить краткую информацию о нём.&lt;/p&gt;&#xA;&lt;h2 id=&#34;основные-задачи&#34;&gt;Основные задачи&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;изучить проблему распознавания грибов;&lt;/li&gt;&#xA;&lt;li&gt;проанализировать существующие решения;&lt;/li&gt;&#xA;&lt;li&gt;разработать структуру сайта и приложения;&lt;/li&gt;&#xA;&lt;li&gt;подготовить дизайн интерфейса;&lt;/li&gt;&#xA;&lt;li&gt;реализовать основные страницы сайта;&lt;/li&gt;&#xA;&lt;li&gt;протестировать результат и улучшить его.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;актуальность&#34;&gt;Актуальность&lt;/h2&gt;&#xA;&lt;p&gt;Многие люди интересуются грибами, но не всегда могут точно определить их вид. Ошибка при распознавании может быть опасной, поэтому цифровой помощник с понятным интерфейсом может быть полезен для начинающих пользователей.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>https://ar1yal1.github.io/fungi-site/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ar1yal1.github.io/fungi-site/resources/</guid>
+      <description>&lt;h1 id=&#34;ресурсы&#34;&gt;Ресурсы&lt;/h1&gt;&#xA;&lt;p&gt;Полезные материалы, которые помогают лучше понять тему проекта:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo — генератор статических сайтов&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/theNewDynamic/gohugo-theme-ananke&#34;&gt;Документация темы Ananke&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B&#34;&gt;Wikipedia: Грибы&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.inaturalist.org/&#34;&gt;iNaturalist&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mushroomobserver.org/&#34;&gt;Mushroom Observer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>https://ar1yal1.github.io/fungi-site/participants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ar1yal1.github.io/fungi-site/participants/</guid>
+      <description>&lt;h2 id=&#34;мой-вклад&#34;&gt;Мой вклад&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Сивова Амалия&lt;/strong&gt;&lt;br&gt;&#xA;Я работала в команде дизайна. Мой вклад связан с продумыванием внешнего вида мобильного приложения и компьютерной версии сайта. Также я участвовала в обсуждении структуры проекта, целей и задач на семестр.&lt;/p&gt;&#xA;&lt;h2 id=&#34;другие-участники-проекта&#34;&gt;Другие участники проекта&lt;/h2&gt;&#xA;&lt;h3 id=&#34;лид-проекта&#34;&gt;Лид проекта&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Лубенец Александр&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;команда-маркетинга&#34;&gt;Команда маркетинга&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Нетреба Анна&lt;/li&gt;&#xA;&lt;li&gt;Бажитова Владислава&lt;/li&gt;&#xA;&lt;li&gt;Надточей София&lt;/li&gt;&#xA;&lt;li&gt;Шаронова Вероника&lt;/li&gt;&#xA;&lt;li&gt;Алямкина Анна&lt;/li&gt;&#xA;&lt;li&gt;Колотыгин Даниил&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;разработка-и-обучение-искусственного-интеллекта&#34;&gt;Разработка и обучение искусственного интеллекта&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Храмцов Максим&lt;/li&gt;&#xA;&lt;li&gt;Смычков Илья&lt;/li&gt;&#xA;&lt;li&gt;Семенец Екатерина&lt;/li&gt;&#xA;&lt;li&gt;Беляев Арсений&lt;/li&gt;&#xA;&lt;li&gt;Арабачян Даниил&lt;/li&gt;&#xA;&lt;li&gt;Богатов Артур&lt;/li&gt;&#xA;&lt;li&gt;Русаков Сергей&lt;/li&gt;&#xA;&lt;li&gt;Селикова Елизавета&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;мобильные-разработчики&#34;&gt;Мобильные разработчики&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Один Дмитрий&lt;/li&gt;&#xA;&lt;li&gt;Кондриков Павел&lt;/li&gt;&#xA;&lt;li&gt;Васячкина Диана&lt;/li&gt;&#xA;&lt;li&gt;Колупаева Светлана&lt;/li&gt;&#xA;&lt;li&gt;Савин Иван&lt;/li&gt;&#xA;&lt;li&gt;Лященко Григорий&lt;/li&gt;&#xA;&lt;li&gt;Леонтьева Юлия&lt;/li&gt;&#xA;&lt;li&gt;Нерсисян Артем&lt;/li&gt;&#xA;&lt;li&gt;Созинов Александр&lt;/li&gt;&#xA;&lt;li&gt;Чердаков Анатолий&lt;/li&gt;&#xA;&lt;li&gt;Метрелин Николай&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;команда-по-копирайтингу&#34;&gt;Команда по копирайтингу&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Сулейман Карам&lt;/li&gt;&#xA;&lt;li&gt;Клим Владислав&lt;/li&gt;&#xA;&lt;li&gt;Барсегян Артур&lt;/li&gt;&#xA;&lt;li&gt;Давыденка Нэлла&lt;/li&gt;&#xA;&lt;li&gt;Хасанов Алиджан&lt;/li&gt;&#xA;&lt;li&gt;Подольская София&lt;/li&gt;&#xA;&lt;li&gt;Доброзоров Егор&lt;/li&gt;&#xA;&lt;li&gt;Ефремов Роман&lt;/li&gt;&#xA;&lt;li&gt;Савинова Вера&lt;/li&gt;&#xA;&lt;li&gt;Коленков Даниил&lt;/li&gt;&#xA;&lt;li&gt;Гретьяков Петр&lt;/li&gt;&#xA;&lt;li&gt;Залипаев Алексей&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;команда-по-дизайну&#34;&gt;Команда по дизайну&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Быков Александр&lt;/li&gt;&#xA;&lt;li&gt;Пчемьян Вадим&lt;/li&gt;&#xA;&lt;li&gt;Меркулова Елизавета&lt;/li&gt;&#xA;&lt;li&gt;Бакалдин Никита&lt;/li&gt;&#xA;&lt;li&gt;Дюкин Андрей&lt;/li&gt;&#xA;&lt;li&gt;Кисурина Варвара&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;фронтенд-разработчики&#34;&gt;Фронтенд разработчики&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Пилинович Макар&lt;/li&gt;&#xA;&lt;li&gt;Кубрика Егор&lt;/li&gt;&#xA;&lt;li&gt;Агибалов Олег&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;бэкенд-разработчики&#34;&gt;Бэкенд разработчики&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Пилинович Макар&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

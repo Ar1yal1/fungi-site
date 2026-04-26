@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Проектная деятельность</title>
+    <link>https://ar1yal1.github.io/fungi-site/posts/</link>
+    <description>Recent content in Posts on Проектная деятельность</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ar1yal1.github.io/fungi-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Начало работы над проектом</title>
+      <link>https://ar1yal1.github.io/fungi-site/posts/post-1/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ar1yal1.github.io/fungi-site/posts/post-1/</guid>
+      <description>&lt;p&gt;На первом этапе я вступила в проект &lt;strong&gt;Fungi&lt;/strong&gt; и была распределена в команду дизайна.&lt;br&gt;&#xA;Команда обсудила общую идею проекта, основные цели и задачи на семестр.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
